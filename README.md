@@ -1,6 +1,6 @@
 # hackerRankChallenge_ConditionalStatements-Switch
  Hackerrank challange Conditional Statements: Switch
-<p>
+
 ## function getLetter(s) {
 ##    let letter;
 ##    // Write your code here
@@ -25,4 +25,4 @@
 ##    return letter;
 ##}
 
-</p>
+
